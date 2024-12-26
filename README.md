@@ -2,8 +2,6 @@
 <h3 align="center">👋 Hello, I'm Vibhav, a forward-thinking Android Developer with over a year of hands-on experience in Kotlin. 💡🚀</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/130ffc354b6ee3c8c9e506276e598bf4e19ea7950df203dacf6aeee4fc543a50/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=vibhavkumar&label=Profile%20views&color=0e75b6&style=flat](https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?t=st=1730397946~exp=1730401546~hmac=2fad6f564640d2beab6e20ec1da54b64f1e036972c3f0591137252e710ff5a46&w=740") alt="vibhavkumar" /> </p>
-
 - 🌱 I’m currently learning **Jetpack Compose**
 
 - 💬 Ask me about **Android**
