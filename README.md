@@ -9,7 +9,7 @@
 - 📫 How to reach me **vibhavkumarmishra00170@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<table align="center" style="margin: auto; border-collapse: collapse;">
+<table align="start" style="margin: auto; border-collapse: collapse;">
   <tr>
     <td align="center" style="padding: 10px;">
       <a href="https://www.linkedin.com/in/vibhavkumargrd00170" target="_blank">
