@@ -9,10 +9,15 @@
 - 📫 How to reach me **vibhavkumarmishra00170@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a align="center" href="https://www.linkedin.com/in/vibhavkumargrd00170" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vibhavkumargrd00170" height="40" width="40" /></a>
-<a href="https://myportfollio-b219a.web.app/" target="_blank"><img align="center" src="./internet.png" alt="https://myportfollio-b219a.web.app/" height="40" width="40" /></a>
+<p align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://www.linkedin.com/in/vibhavkumargrd00170" target="_blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+  </a>
+  <a href="https://myportfollio-b219a.web.app/" target="_blank" style="text-decoration: none;">
+    <img src="./internet.png" alt="Portfolio" height="40" width="40" />
+  </a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
