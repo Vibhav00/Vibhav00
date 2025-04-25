@@ -3,13 +3,12 @@
   <img src="./android.png" alt="android" width="200" height="200">
 </p>
 <h3 align="center">👋 Hello, I'm Vibhav, a forward-thinking Android Developer with over a year of hands-on experience in Kotlin. 💡🚀</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/130ffc354b6ee3c8c9e506276e598bf4e19ea7950df203dacf6aeee4fc543a50/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/130ffc354b6ee3c8c9e506276e598bf4e19ea7950df203dacf6aeee4fc543a50/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966](https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 - 🌱 I’m currently learning **Jetpack Compose**
 
 - 💬 Ask me about **Android**
 
-- 📫 How to reach me **vibhavkumarmishra00170@gmail.com**
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=vibhav00&label=Profile%20views&color=0e75b6&style=flat" alt="vibhavkumargrd00170" />
@@ -25,7 +24,7 @@
       <p>LinkedIn</p>
     </td>
     <td align="center" style="padding: 10px;">
-      <a href="https://myportfollio-b219a.web.app/" target="_blank">
+      <a href="https://vibhav00.github.io/MyPortfolio/" target="_blank">
         <img src="./internet.png" alt="Portfolio" height="40" width="40" />
       </a>
       <p>Portfolio</p>
